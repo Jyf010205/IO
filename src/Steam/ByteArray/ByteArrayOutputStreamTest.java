@@ -1,4 +1,4 @@
-package ByteArray;
+package Steam.ByteArray;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

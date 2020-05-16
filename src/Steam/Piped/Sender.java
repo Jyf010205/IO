@@ -1,4 +1,4 @@
-package Piped;
+package Steam.Piped;
 
 import java.io.IOException;
 import java.io.PipedOutputStream;
